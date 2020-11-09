@@ -1,5 +1,3 @@
-<h1>Ingrese su Computadora</h1>
-
 <form method="POST" action="{{route('pc.store')}}">
 @csrf
 
